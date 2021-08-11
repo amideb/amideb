@@ -1,10 +1,10 @@
 ### Hola 👋👀
 
 
-- 🔭 Research and Development Engineer Intern @in28Minutes 
-- 🎃 ex Software Development Engineer Intern @Magnox Technologies Pvt. Ltd.
+- 🔭 R$D Engineer Intern @in28Minutes 
+- 🎃 ex SDE Intern @Magnox Technologies Pvt. Ltd.
 - 🌱 I’m currently learning Microservices with Spring Boot and Spring Cloud.
-- 💁🏻 4th Year Computer Science & Engineering (CSE-2022) @Narula Institute of Technology
+- 💁🏻 4th Year CSE-2022 Student @Narula Institute of Technology
 - 🦸🏻‍♂️ 3🌟 Coder @Codechef
 
 <!--
