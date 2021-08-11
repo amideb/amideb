@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+**debrupofficial365/debrupofficial365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Research and Development Engineer Intern @in28Minutes ...
+- 🎃 ex Software Development Engineer Intern @Magnox Technologies Pvt. Ltd.
+- 🌱 I’m currently learning Microservices with Spring Boot and Spring Cloud.
+
 <!--
 **debrupofficial365/debrupofficial365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
