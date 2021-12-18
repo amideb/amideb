@@ -1,10 +1,11 @@
 ### Hola 👋👀
 
 
+- 👨🏼‍🏭 SWE Intern - Delivery @Virtusa [December - Present]
 - 🔭 R&D Engineer Intern @in28Minutes [August - Present]
 - 🎃 Ex SDE Intern @Magnox Technologies Pvt. Ltd. [March - August]
 - 🌱 I’m currently learning Microservices with Spring Boot and Spring Cloud.
-- 💁🏻 4th Year CSE-2022 Student @NIT Agarpara
+- 💁🏻 4th Year | CSE-2022 Student @NIT Agarpara
 - 🦸🏻‍♂️ 3🌟 Coder @CodeChef
 
 <!--
