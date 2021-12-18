@@ -1,7 +1,7 @@
 ### Hola 👋👀
 
 
-- 👨🏼‍🏭 SWE Intern - Delivery @Virtusa [December - Present]
+- 👨🏼‍🏭 Technology Intern - Delivery @Virtusa [December - Present]
 - 🔭 R&D Engineer Intern @in28Minutes [August - Present]
 - 🎃 Ex SDE Intern @Magnox Technologies Pvt. Ltd. [March - August]
 - 🌱 I’m currently learning Microservices with Spring Boot and Spring Cloud.
