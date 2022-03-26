@@ -1,11 +1,26 @@
-### Hola 👋👀
+## Debrup Mondal - Software Engineer + Teacher
 
+- 🦾 Trying to be better in Software Engineering day by day.
+- 🌱 I’m currently learning Microservices with Spring Boot.
 
-- 🔭 R&D Engineer Intern @in28Minutes [August - Present]
-- 🎃 Ex SDE Intern @Magnox Technologies Pvt. Ltd. [March - August]
-- 🌱 I’m currently learning Microservices with Spring Boot and Spring Cloud.
-- 💁🏻 4th Year | CSE-2022 Student @NIT Agarpara
-- 🦸🏻‍♂️ 3🌟 Coder @CodeChef
+## Work Experience
+
+- **in28Minutes Official, Udemy Inc.**
+  - 👷🏻‍ &nbsp;Member Of Technical Staff (Volunteer)  
+  - 🧑🏻‍🔬 &nbsp;Research & Development Engineer Intern  (Aug 2021 - Dec 2021)
+  - 👨‍🏫 Teaching Assistant, Code Reviewer, Mentor  (Mar 2021 - Aug 2021)
+- **Magnox Technologies Pvt. Ltd.**
+  - 🧑🏻‍💻 &nbsp;Software Development Engineer Intern (Mar 2021 - Aug 2021)
+
+## Education 
+
+- **NIT Agarpara**
+  - 👨🏻‍🎓&nbsp; B.Tech - Computer Science & Engineering (2018 - 2022)
+
+## Hackthon
+
+- **Virtusa NeuralHack Season 5**
+  - 🙅🏻 &nbsp;National Level Hackthon Finalist (Sep 2021 - Oct 2021)
 
 <!--
 **debrupofficial365/debrupofficial365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +36,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
+
+<img src="https://github-readme-stats.vercel.app/api?username=debrupofficial365&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=debrupofficial365&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/debrupofficial365) 
