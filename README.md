@@ -19,7 +19,7 @@
 ## Hackthon
 
 - **Virtusa NeuralHack Season 5**
-  - 🙅🏻 &nbsp;National Level Hackthon Finalist (Sep 2021 - Oct 2021)
+  - 🙅🏻 &nbsp;International Level Hackthon Finalist (Sep 2021 - Oct 2021)
 
 <!--
 **debrupofficial365/debrupofficial365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
