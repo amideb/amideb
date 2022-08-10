@@ -6,7 +6,7 @@
 ## Work Experience
 
 - **Cognizant**
-  - 🧑🏻‍💻 &nbsp;Software Engineer Intern  (July 2022 - Present)
+  - 🧑🏻‍💻 &nbsp;Software Engineer L11  (July 2022 - Present)
   - 🧑🏻‍💻 &nbsp;Software Engineer Intern (Jan 2022 - July 2022)
   
 ## Internship Experience
