@@ -7,11 +7,10 @@
 
 - **Cognizant**
   - 🧑🏻‍💻 &nbsp;Software Engineer Intern  (July 2022 - Present)
+  - 🧑🏻‍💻 &nbsp;Software Engineer Intern (Jan 2022 - July 2022)
   
 ## Internship Experience
 
-- **Cognizant**
-  - 🧑🏻‍💻 &nbsp;Software Engineer Intern (Jan 2022 - July 2022)
 - **Magnox Technologies Pvt. Ltd.**
   - 🧑🏻‍💻 &nbsp;Software Development Engineer Intern (Mar 2021 - Aug 2021)
 
