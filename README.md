@@ -1,4 +1,4 @@
-## Debrup Mondal - Software Engineer ❤️
+## Lord Beerus - Software Engineer ❤️
 
 - 🦾 Trying to be better in Software Engineering day by day.
 - 🌱 I’m currently learning Microservices with Spring Boot.
@@ -16,8 +16,8 @@
 
 ## Education 
 
-- **NIT Agarpara**
-  - 👨🏻‍🎓&nbsp; B.Tech - Computer Science & Engineering (2018 - 2022)
+- **B.Tech**
+  - 👨🏻‍🎓&nbsp; Computer Science & Engineering (2018 - 2022)
 
 ## Hackthon
 
@@ -25,7 +25,7 @@
   - 🙅🏻 &nbsp;International Level Hackthon Finalist (Sep 2021 - Oct 2021)
 
 <!--
-**debrupofficial365/debrupofficial365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lordbeerus145/lordbeerus145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
