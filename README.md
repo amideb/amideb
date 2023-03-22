@@ -1,5 +1,5 @@
 <h2> Hello, I'm Deb! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" height="230">
 <p><em> - 🧑🏻‍💻 I’m currently working as a Software Engineer in Remote, India</em></p>
 <p><em> - 🔭 I’m currently experimenting Cloud Technologies </em></p>
 
